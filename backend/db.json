@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro BLACK",
+      "price": "18000.89"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ Ultra",
+      "price": "7520.89"
+    },
+    {
+      "name": "Lapis Preto Básico",
+      "price": "1.50",
+      "id": 4
+    },
+    {
+      "name": "Óculos social",
+      "price": "300.00",
+      "id": 5
+    },
+    {
+      "name": "Geladeira",
+      "price": "1500.35",
+      "id": 6
+    },
+    {
+      "name": "iMac",
+      "price": "10000.00",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Samsung S10",
+      "price": "2530.00"
+    },
+    {
+      "id": 9,
+      "name": "Luva",
+      "price": "10.00"
+    }
+  ]
+}
